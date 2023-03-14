@@ -27,7 +27,12 @@ To run this project:
 4. Pick which temperature unit to use (Fahrenheit or Celsius).
 
 ## Screenshots
-<img width="1440" alt="Screen Shot 2022-10-25 at 3 37 34 PM" src="https://user-images.githubusercontent.com/108149090/197866179-87184dbe-61e9-4a3f-a6b3-60eb236598f0.png">
+<p align="center">Current Tab: <br/>
+<img width="1435" alt="Current Tab" src="https://user-images.githubusercontent.com/108149090/225118060-0062f7bb-f9fd-4410-b7c6-eb2421584ad9.png">
+<p align="center">Hourly Tab: <br/>
+<img width="1417" alt="Hourly Tab" src="https://user-images.githubusercontent.com/108149090/225118103-7ece73b5-b293-4db4-bf66-322c3cf6733e.png">
+<p align="center">Daily Tab: <br/>
+<img width="1431" alt="Daily Tab" src="https://user-images.githubusercontent.com/108149090/225118124-c7dda31a-97c0-4aa8-b4a0-ec70fe63a0fc.png">
 
 ## Project Status
 Completed.
